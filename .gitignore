@@ -2,6 +2,7 @@
 venv/
 env/
 .venv/
+pyenv/
 
 # Python önbellek dosyaları
 __pycache__/
