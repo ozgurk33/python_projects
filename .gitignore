@@ -1,0 +1,15 @@
+# Sanal ortam klasörleri
+venv/
+env/
+.venv/
+
+# Python önbellek dosyaları
+__pycache__/
+*.pyc
+
+# Editör ayarları
+.idea/
+.vscode/
+
+# Varsa veritabanı dosyaları (yanlışlıkla yüklenmesin)
+*.sqlite3
